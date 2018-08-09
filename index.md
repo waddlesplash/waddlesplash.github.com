@@ -1,0 +1,1 @@
+Old-school hacker. GUI addict. Clean coder. Tolerates Linux. Loves [Haiku](https://haiku-os.org). Prefers Haiku/C++ over C over Python. [Tweeter](http://twitter.com/waddlesplash). [Redditor](https://www.reddit.com/user/waddlesplash). Freenoder.
